@@ -46,4 +46,3 @@ try:
                 count = 0
 finally:
     print_stats(dict_code_stat, file_size)
-
