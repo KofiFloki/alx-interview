@@ -4,7 +4,6 @@ This module provides a function `validUTF8` which
 validates if the given data is a validUTF8
 """
 
-
 def validUTF8(data):
     """
     validates if data is a valid UTF8
